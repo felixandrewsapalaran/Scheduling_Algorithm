@@ -1,4 +1,4 @@
-# Scheduling_Algorithm
+# Scheduling_Algorithms
 
 
 In my Operating System Course we have to write a program that will stimulate First Come First Serve(FCFC), Shortest Job First(SJF), shortest remaining time next(SRTnext), and Round Robin(with quantum = 4 milliseconds) scheduling algorithms.
